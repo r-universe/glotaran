@@ -1,5 +1,9 @@
 [
   {
+    "package": "paramGUI",
+    "oncran": true
+  },
+  {
     "package": "TIMP",
     "oncran": true
   }
