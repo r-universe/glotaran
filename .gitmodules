@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "paramGUI"]
 	path = paramGUI
 	url = https://github.com/glotaran/paramgui
-	shallow = true
-	registered = true
 [submodule "TIMP"]
 	path = TIMP
 	url = https://github.com/glotaran/timp
-	shallow = true
-	registered = true
