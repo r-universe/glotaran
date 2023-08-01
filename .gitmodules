@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "paramGUI"]
-	path = paramGUI
-	url = https://github.com/glotaran/paramgui
 [submodule "TIMP"]
 	path = TIMP
 	url = https://github.com/glotaran/timp
+[submodule "paramGUI"]
+	path = paramGUI
+	url = https://github.com/glotaran/paramgui
